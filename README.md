@@ -8,3 +8,5 @@ Custom Dashboard using  Bootstrap and Bootstrap studio😉✨🆒
 ![Screenshot (813)](https://user-images.githubusercontent.com/75971776/149670208-e2d87b83-94bb-4763-be06-b87c71f99d8e.png)
 
 - Minimalist and clean UI🤘
+- Responsive Design
+- Graphical representation
